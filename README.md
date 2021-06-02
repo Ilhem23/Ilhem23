@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ilhem23
 - 👀 I’m interested in web development, data analysis and artificial intelligence
 - 🌱 I’m currently learning Symphony and Laravel
-- 📫 How to reach me ei_aissaoui@esi.dz
+- 📫 ei_aissaoui@esi.dz
+- 📫 https://www.linkedin.com/in/ilhem-aissaoui-3939a720a/
 
 <!---
 Ilhem23/Ilhem23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
