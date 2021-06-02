@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ilhem23
-- 👀 I’m interested invweb development, data analysis and artificial intelligence
+- 👀 I’m interested in web development, data analysis and artificial intelligence
 - 🌱 I’m currently learning Symphony and Laravel
 - 📫 How to reach me ei_aissaoui@esi.dz
 
