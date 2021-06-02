@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ilhem23
+- 👋 Hi, I’m @Ilhem23 software engineer
 - 👀 I’m interested in web development, data analysis and artificial intelligence
 - 🌱 I’m currently learning Symphony and Laravel
 - 📫 ei_aissaoui@esi.dz
