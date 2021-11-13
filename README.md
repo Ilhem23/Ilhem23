@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ilhem23 software engineer
 - 👀 I’m interested in web development, data analysis and artificial intelligence
-- 🌱 I’m currently learning Symphony and Laravel
+- 🌱 I’m currently learning reinforcement learning
 - 📫 ei_aissaoui@esi.dz
 - 📫 https://www.linkedin.com/in/ilhem-aissaoui-3939a720a/
 
